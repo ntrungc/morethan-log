@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `Nhật Trung`,
-      href: "https://github.com/ntrung/notion",
+      href: "https://github.com/ntrungc/notion",
     },
   ],
   // blog setting (required)
