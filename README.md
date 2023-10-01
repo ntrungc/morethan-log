@@ -20,7 +20,7 @@ Next.js static blog using Notion as a Content Management System (CMS). Supports 
 
 **👀 SEO friendly**
 
-- Dynamically generates OG IMAGEs (thumbnails!) for posts. ([og-image-korean](https://github.com/morethanmin/og-image-korean)).
+- Dynamically generates OG IMAGEs (thumbnails!) for posts.
 - Dynamically creates sitemap for posts.
 
 **🤖 Customisable and Supports various plugin through CONFIG**
